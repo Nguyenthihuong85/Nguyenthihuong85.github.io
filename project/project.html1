@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body> 
+  <section> 
+    <!-- skills section design -->
+<section class="skills" id="skills">
+    <h2 class="heading">My <span>Skills</span></h2>
+    
+    <div class="skills-container">
+        <div class="skills-box">
+            <i class='code-alt' ></i>
+            <h3>Web Development</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi eum nemo iste veritatis, ipsam, quibusdam quidem minima dolore debitis laborum commodi voluptates eos totam illo! Voluptate harum molestias minima. Id?.</p>
+            <a href="#" class="btn">Read More</a>
+        </div>
+</body>
+</html>
